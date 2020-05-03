@@ -10,6 +10,7 @@ Plataforma desarrollada en Laravl 5.8, plataforma que ayuda a gestionar el proce
 - Módulo de Calendario
 - Módulo de Planeación
 	- Estadísticas de las planeación y posts.
+	- Revisión en las etapas de entrega, diseño de piezas, revisión y publicación.
 - Módulo de Solicitudes
 - Filtros de búsqueda para cada uno de los módulos.
 - Inicio de sesión
