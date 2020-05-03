@@ -1,0 +1,2 @@
+{!!Form::text('nombre_contacto_cli',null,['id'=>'nombre_usu', 'class'=>'form-control', 'placeholder'=>"Nombre del contacto"])!!}
+{!!Form::text('correo_contacto_cli',null,['id'=>'correo_usu', 'class'=>'form-control', 'placeholder'=>"Correo del contacto"])!!}

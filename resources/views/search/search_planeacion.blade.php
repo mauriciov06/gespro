@@ -1,0 +1,3 @@
+{!!Form::text('nombre_plan',null,['id'=>'nombre_plan', 'class'=>'form-control', 'placeholder'=>"Nombre de la planeación"])!!}
+{!!Form::select('servicio_plan', ['educacion'=>'Educacion','vivienda'=>'Vivienda','recreacion'=>'Recreación'], null, ['id'=>'servicio_plan', 'class'=>'form-control', 'placeholder'=>"Servicio"])!!}
+{!!Form::select('estado_plan', ['en-espera'=>'En espera','aprobado'=>'Aprobado','rechazado'=>'Rechazado'], null, ['id'=>'estado_plan', 'class'=>'form-control', 'placeholder'=>"Estado"])!!}

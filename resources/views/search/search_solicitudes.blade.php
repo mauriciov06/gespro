@@ -1,0 +1,2 @@
+{!!Form::text('nombre_soli',null,['id'=>'nombre_soli', 'class'=>'form-control', 'placeholder'=>"Nombre de solicitud"])!!}
+{!!Form::select('tema_urge',$temas_urgencias, null, ['id'=>'tema_urge', 'class'=>'form-control', 'placeholder'=>"Tema de urgencia"])!!}
