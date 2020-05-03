@@ -1,6 +1,6 @@
 ## Gespro
 
-Plataforma desarrollada en Laravl 5.8, plataforma que ayuda a gestionar el proceso de publicación de campañas en facebook, planeación, revisión, visualizacion de post en calendario, estadísticas de las planeaciones y post.
+Plataforma desarrollada en Laravel 5.8, plataforma que ayuda a gestionar el proceso de publicación de campañas en facebook, planeación, revisión, visualizacion de post en calendario, estadísticas de las planeaciones y post.
 
 ## Funcionalidades
 
